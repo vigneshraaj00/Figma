@@ -32,7 +32,7 @@ Publish the website in the given URL.
 Figma
 
 ## code:
-```
+'''
 .home-page {
   background-color: #f90a0a;
   display: flex;
@@ -361,11 +361,11 @@ Figma
   top: 112px;
   width: 122px;
 }
-```
-
+'''
 ## OUTPUT:
-![Output](.out1.png)
-![Output](.out2.png)
-![Output](.out3.png)
+![Output](./out1.png)
+![Output](./out2.png)
+![Output](./out3.png)
+
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
